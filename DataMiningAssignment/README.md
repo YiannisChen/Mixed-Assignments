@@ -196,4 +196,19 @@ PRs and suggestions welcome! If you find a bug or want a new feature, open an is
 
 ## 📄 License
 
-MIT License. Use, share, and remix! 
+MIT License. Use, share, and remix!
+
+## 📊 Data Source
+
+The traffic collision data used in this project is sourced from the Los Angeles Open Data Portal:
+
+[Traffic Collision Data from 2010 to Present](https://data.lacity.org/Public-Safety/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w/about_data)
+
+This dataset contains detailed information about traffic collisions in Los Angeles from 2010 to the present, including:
+- Date and time of collision
+- Location details
+- Victim information (age, sex, descent)
+- Premise description
+- And other relevant collision data
+
+The data is maintained by the Los Angeles Police Department and is updated regularly. 
